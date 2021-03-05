@@ -167,10 +167,8 @@ Lab/Lab06/pytorch-mask-rcnn/resnet50_imagenet.pth
 Lab/Lab06/pycocotools
 Lab/Lab07/__pycache__
 Lab/Lab07/archive
-Lab/Lab07/img
 Lab/Lab07/data
 Lab/Lab07/runs
 Lab/Lab07/torch_data
 Lab/Lab07/IMG_0429.jpg
 Lab/Lab08/pytorch-CycleGAN-and-pix2pix
-Lab/Lab08/img
