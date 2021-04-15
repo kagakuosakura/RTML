@@ -128,6 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+*.weights
+*.pickle
+
 Lab/data
 Lab/des
 Lab/Lab01/CIFAR10+AlexNet
@@ -177,3 +180,8 @@ Lab/Lab09/checkpoint
 Lab/Lab09/results
 Midterm/data
 Midterm/runs
+Lab/Lab12/data
+Lab/Lab12/.data
+Lab/Lab12/models
+mini-project/models
+mini-project/runs
